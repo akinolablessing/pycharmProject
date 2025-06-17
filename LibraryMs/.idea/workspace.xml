@@ -5,17 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f190fe6-0dfa-49bc-b48e-55f1f62b9d56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../FlaskAccount/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FlaskAccount/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FlaskAccount/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FlaskAccount/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../segno/segno.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../student_management/sendingEmailUser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitIgnore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskAccount/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FlaskAccount/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskAccount/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FlaskAccount/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskAccount/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FlaskAccount/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlaskAccount/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FlaskAccount/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GroupTwoProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GroupTwoProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryMs/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryMs/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryMs/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryMs/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python_class_project" beforeDir="false" afterPath="$PROJECT_DIR$/../python_class_project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../segno/segno.py" beforeDir="false" afterPath="$PROJECT_DIR$/../segno/segno.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student_management/sendingEmailUser.py" beforeDir="false" afterPath="$PROJECT_DIR$/../student_management/sendingEmailUser.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,23 +52,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.updates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Django Server.LibraryMs.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR_AND_PREVIEW&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql_aurora&quot;,
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\PycharmProjects\LibraryMs\catalog\template" />
@@ -74,6 +89,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="LibraryMs.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -110,6 +126,8 @@
       <updated>1748515973544</updated>
       <workItem from="1748515974708" duration="12950000" />
       <workItem from="1748540415489" duration="587000" />
+      <workItem from="1750063606135" duration="35856000" />
+      <workItem from="1750167000401" duration="3825000" />
     </task>
     <servers />
   </component>
